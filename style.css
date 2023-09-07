@@ -1,0 +1,19 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    display: block;
+}
+.container{
+    text-align: center;
+    margin: auto;
+}
+.content{
+    line-height: 2em;
+    font-size: 20px;
+}
+.attribution{
+    font-size: 15px;
+}
+.container,img{
+    max-width: 100%;
+    height: auto;
+}
